@@ -1,4 +1,4 @@
-package com.leoncarraro.swing.view;
+package com.usf.swing.view;
 
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
@@ -22,8 +22,8 @@ import javax.swing.SwingConstants;
 import javax.swing.JSpinner;
 import javax.swing.SpinnerNumberModel;
 
-import com.leoncarraro.swing.controller.BeerController;
-import com.leoncarraro.swing.model.Beer;
+import com.usf.swing.controller.BeerController;
+import com.usf.swing.model.Beer;
 
 public class MainView {
 

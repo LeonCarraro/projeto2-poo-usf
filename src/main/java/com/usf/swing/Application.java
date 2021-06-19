@@ -1,10 +1,10 @@
-package com.leoncarraro.swing;
+package com.usf.swing;
 
 import java.awt.EventQueue;
 
-import com.leoncarraro.swing.controller.BeerController;
-import com.leoncarraro.swing.dao.BeerDAO;
-import com.leoncarraro.swing.view.MainView;
+import com.usf.swing.controller.BeerController;
+import com.usf.swing.dao.BeerDAO;
+import com.usf.swing.view.MainView;
 
 public class Application {
 

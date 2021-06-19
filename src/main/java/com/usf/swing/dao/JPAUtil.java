@@ -1,4 +1,4 @@
-package com.leoncarraro.swing.dao;
+package com.usf.swing.dao;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;

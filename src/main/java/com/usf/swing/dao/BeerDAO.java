@@ -1,10 +1,10 @@
-package com.leoncarraro.swing.dao;
+package com.usf.swing.dao;
 
 import java.util.List;
 
 import javax.persistence.EntityManager;
 
-import com.leoncarraro.swing.model.Beer;
+import com.usf.swing.model.Beer;
 
 public class BeerDAO {
 

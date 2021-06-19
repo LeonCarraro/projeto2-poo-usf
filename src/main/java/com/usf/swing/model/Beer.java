@@ -1,4 +1,4 @@
-package com.leoncarraro.swing.model;
+package com.usf.swing.model;
 
 import java.math.BigDecimal;
 

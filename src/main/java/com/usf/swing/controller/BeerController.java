@@ -1,10 +1,10 @@
-package com.leoncarraro.swing.controller;
+package com.usf.swing.controller;
 
 import java.math.BigDecimal;
 import java.util.List;
 
-import com.leoncarraro.swing.dao.BeerDAO;
-import com.leoncarraro.swing.model.Beer;
+import com.usf.swing.dao.BeerDAO;
+import com.usf.swing.model.Beer;
 
 public class BeerController {
 
